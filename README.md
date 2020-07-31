@@ -1,6 +1,6 @@
 # Brixton Commisary System
 
-Brixton Commisary System is my very first application created, it is a simple inventory system that facilitates kitchen commissary. This application is develop in Java using Wamp Server MySQL.
+Brixton Commissary System is my very first application created, it is a simple inventory system that facilitates kitchen commissary. This application is developed in Java using Wamp Server MySQL.
 
 Sorry about the user interface. Didn't know about user experience in my 2nd year of college.
 
